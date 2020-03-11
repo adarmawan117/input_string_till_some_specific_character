@@ -1,0 +1,1 @@
+# input_string_till_some_specific_character
