@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583900522 source:d:\programming\projectc\ongithub\input_string_till_some_specific_character\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
